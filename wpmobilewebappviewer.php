@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: WP WebApp Viewer
+ * Plugin Name: WP MobileWebApp Viewer
  * Plugin URI: http://norbat.de/plugins
  * Description: This plugin will show the mobile Version of a WebApp inside an iframe HTML element which is wrapped into two DIV containers. The outer DIV container holds an image of a mobile device (i.e. iPhone or iPad) and the inner DIV container wrapps the iframe element with the source of the WebApp.
  * Version: 1.0

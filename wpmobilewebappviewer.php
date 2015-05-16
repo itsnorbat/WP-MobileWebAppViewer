@@ -5,7 +5,7 @@
  * Description: This plugin will show the mobile Version of a WebApp inside an iframe HTML element which is wrapped into two DIV containers. The outer DIV container holds an image of a mobile device (i.e. iPhone or iPad) and the inner DIV container wrapps the iframe element with the source of the WebApp.
  * Version: 1.0
  * Author: Norbert Mesch
- * Author URI: https://norbat.de
+ * Author URI: https://github.com/itsnorbat/WP-MobileWebAppViewer
  * License: GPL2
  */
 
